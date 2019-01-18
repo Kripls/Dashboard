@@ -164,6 +164,7 @@
   .dashboardTop ul{
     width: 50%;
     float: left;
+    line-height: 48px;
   }
   .dashboardElemCount {
     text-align: center;
